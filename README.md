@@ -1,4 +1,5 @@
 
+[#第二次作业](https://stackedit.io/editor#)
 ## From David J.Griffiths,  *Introduction to Quantum Mechanics*.**Appreciating here!**
 ##$$i \hbar\frac{\partial\Psi}{\partial t}=- \frac{\hbar^2}{2m}\frac{\partial^2\Psi}{\partial x^2}+V\Psi$$
 #The physicist's first line of attack on any partial differential equation is separation of variables.
