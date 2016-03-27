@@ -9,4 +9,4 @@
 [第四次作业](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/chapter1/Fourth%20homework.pdf)
 
 
-![](http://latex.codecogs.com/gif.latex?$\frac{2}{3}$)
+![](http://latex.codecogs.com/gif.latex?$\hbar$)
