@@ -18,3 +18,5 @@
 [第八次作业](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AB%E6%AC%A1%E6%8A%A5%E5%91%8A.md)
 
 [第九次作业（习题3.16）](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+
+[第十次作业（习题3.31）](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/%E7%AC%AC%E5%8D%81%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%8D%81%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
