@@ -2,6 +2,10 @@
 黄程    2013301020125
 --------------------
 
+[第一次作业](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+
+[第二次作业](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+
 [第三次作业level1](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/lev1.py)
 [第三次作业level2](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/lev2.py)
 [第三次作业level3](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/lev3.py)
