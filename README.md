@@ -32,3 +32,7 @@
 [第十三次作业（习题5.16）](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 
 [第十四次作业（习题6.6）](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/%E7%AC%AC%E5%8D%81%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%8D%81%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+
+[期末作业](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/finalwork/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.pdf)
+
+[期末作业代码](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/finalwork/wavefunction.py)
